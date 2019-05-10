@@ -1,5 +1,6 @@
 MANIFEST.in
 README.md
+setup.cfg
 setup.py
 pyigen/__init__.py
 pyigen.egg-info/PKG-INFO

@@ -7,4 +7,5 @@ turn your program into an .exe or .app file!
 To know how to use this module, import pyigen and then call: 'pyigen.manual()'
 
 **What's new in this release:**
+	
 	- Fixed version discrepencies

@@ -9,3 +9,11 @@ To know how to use this module, import pyigen and then call: 'pyigen.manual()'
 **What's new in this release:**
 	
 	- Fixed version discrepencies
+	
+<p align="center">
+  <a href="https://pypi.org/project/pyigen/1.0.1/">
+    <img alt="Download via PyPI" title="Click here to view at PyPI" src="https://i.ibb.co/QYLF5cg/pypi-600x218.png">
+  </a>
+  <a href="https://pypi.org/project/pyigen/1.0.1/">
+    <img alt="View at GitHub" title="Click here to view at GitHub" src="https://i.ibb.co/j8sLbc9/github-600x218.png">
+  </a>

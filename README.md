@@ -8,7 +8,7 @@ To know how to use this module, import pyigen and then call: 'pyigen.manual()'
 
 **What's new in this release:**
 	
-	- Fixed version discrepencies
+   - Fixed version discrepencies
 	
 <p align="center">
   <a href="https://pypi.org/project/pyigen/1.0.1/">

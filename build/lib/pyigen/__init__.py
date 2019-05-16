@@ -42,10 +42,10 @@ def manual():
         print (m.read())
 
 def about():
-    print("About pyigen 1.0.1")
+    print("About pyigen 1.0.1.1")
     print()
-    print("Created by Armaan Aggarwal on May 5, 2019")
+    print("Created by Armaan Aggarwal on May 15, 2019")
 
 print("pyigen 1.0.1 successfully imported")
-print("To see the manual of pyigen 1.0.1, use the command 'pyigen.manual()'")
+print("To see the manual of pyigen 1.0.1.1, use the command 'pyigen.manual()'")
 

@@ -1,4 +1,4 @@
-Manual for pyigen 1.0.1:
+Manual for pyigen 1.0.1.1:
 
 1. pyigen.run(appname,filename,pygameusage,console,icon)
 	Usage: Fill in the parameters and it will generate a script

@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="pyigen",
-    version="1.0.1", 
+    version="1.0.1.1", 
     author="Armaan Aggarwal",
     description="A package to generate a pyinstaller setup.py file!",
     long_description=long_description,
